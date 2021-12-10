@@ -97,74 +97,6 @@
             </objects>
             <point key="canvasLocation" x="686.95652173913049" y="87.723214285714278"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="hJc-u9-QxT">
-            <objects>
-                <viewController id="LBW-7w-ITG" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="9GW-kt-PWm">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="folder.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="LzK-fY-4cv">
-                                <rect key="frame" x="0.0" y="45" width="414" height="815.5"/>
-                                <color key="tintColor" red="0.96030384300000005" green="0.2124752104" blue="0.37083217499999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                            </imageView>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="kX5-zP-Qmx"/>
-                        <color key="backgroundColor" systemColor="systemBlueColor"/>
-                        <constraints>
-                            <constraint firstItem="kX5-zP-Qmx" firstAttribute="bottom" secondItem="LzK-fY-4cv" secondAttribute="bottom" id="GCJ-Cf-Dlg"/>
-                            <constraint firstItem="LzK-fY-4cv" firstAttribute="leading" secondItem="kX5-zP-Qmx" secondAttribute="leading" id="Sh6-kA-1dv"/>
-                            <constraint firstItem="kX5-zP-Qmx" firstAttribute="trailing" secondItem="LzK-fY-4cv" secondAttribute="trailing" id="XPX-CM-6bh"/>
-                            <constraint firstItem="LzK-fY-4cv" firstAttribute="top" secondItem="kX5-zP-Qmx" secondAttribute="top" id="oGc-iZ-mAC"/>
-                        </constraints>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="6qQ-jW-BHY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="669.56521739130437" y="731.91964285714278"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="hYQ-3l-5wt">
-            <objects>
-                <viewController storyboardIdentifier="KKViewController" id="Icu-WZ-Was" customClass="KKViewController" customModule="FaceID_TouchID" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="BJy-lO-SOY">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="r34-Ec-zMt"/>
-                        <color key="backgroundColor" red="0.96030384300000005" green="0.2124752104" blue="0.37083217499999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="lwx-qz-ycm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1384" y="751"/>
-        </scene>
-        <!--Karan121 View Controller-->
-        <scene sceneID="THO-BE-J6w">
-            <objects>
-                <viewController storyboardIdentifier="Karan121ViewController" id="aVe-xv-sBa" customClass="Karan121ViewController" customModule="FaceID_TouchID" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="RnA-kQ-DMU">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="g3d-3h-UEi">
-                                <rect key="frame" x="20" y="446" width="374" height="4"/>
-                                <color key="tintColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                            </progressView>
-                        </subviews>
-                        <viewLayoutGuide key="safeArea" id="Lgf-4U-2ob"/>
-                        <color key="backgroundColor" systemColor="systemTealColor"/>
-                        <constraints>
-                            <constraint firstItem="g3d-3h-UEi" firstAttribute="trailing" secondItem="RnA-kQ-DMU" secondAttribute="trailingMargin" id="6je-xc-nbX"/>
-                            <constraint firstItem="g3d-3h-UEi" firstAttribute="centerY" secondItem="RnA-kQ-DMU" secondAttribute="centerY" id="8XK-X4-fce"/>
-                            <constraint firstItem="g3d-3h-UEi" firstAttribute="leading" secondItem="RnA-kQ-DMU" secondAttribute="leadingMargin" id="o5Y-jG-ZCQ"/>
-                        </constraints>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ePw-az-Vg4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="2153.6231884057975" y="755.35714285714278"/>
-        </scene>
         <!--Test View Controller-->
         <scene sceneID="7sF-lK-KBx">
             <objects>
@@ -264,16 +196,12 @@
     </scenes>
     <resources>
         <image name="applelogo" catalog="system" width="103" height="128"/>
-        <image name="folder.fill" catalog="system" width="128" height="97"/>
         <image name="pencil.circle.fill" catalog="system" width="128" height="121"/>
         <image name="square.and.arrow.down" catalog="system" width="121" height="128"/>
         <image name="square.and.arrow.down.on.square.fill" catalog="system" width="122" height="128"/>
         <image name="square.and.arrow.up" catalog="system" width="115" height="128"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-        </systemColor>
-        <systemColor name="systemBlueColor">
-            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemGrayColor">
             <color red="0.55686274509803924" green="0.55686274509803924" blue="0.57647058823529407" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -286,9 +214,6 @@
         </systemColor>
         <systemColor name="systemRedColor">
             <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-        </systemColor>
-        <systemColor name="systemTealColor">
-            <color red="0.35294117647058826" green="0.78431372549019607" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemYellowColor">
             <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
