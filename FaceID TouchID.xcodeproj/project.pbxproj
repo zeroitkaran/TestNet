@@ -21,6 +21,7 @@
 		887E001927631FBC00F09B43 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E001827631FBC00F09B43 /* NewViewController.swift */; };
 		887E002D27632BA000F09B43 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E002C27632BA000F09B43 /* LoginViewController.swift */; };
 		887E003427632F0500F09B43 /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E003327632F0500F09B43 /* Test1ViewController.swift */; };
+		887E003D27633AB200F09B43 /* LastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E003C27633AB200F09B43 /* LastViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		887E001827631FBC00F09B43 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		887E002C27632BA000F09B43 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		887E003327632F0500F09B43 /* Test1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1ViewController.swift; sourceTree = "<group>"; };
+		887E003C27633AB200F09B43 /* LastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				2236B17827632256002502B6 /* Karan2ViewController.swift */,
 				227B9232275F271A00F829A8 /* ViewController.swift */,
 				227B9234275F271A00F829A8 /* Main.storyboard */,
+				887E003C27633AB200F09B43 /* LastViewController.swift */,
 				887E003327632F0500F09B43 /* Test1ViewController.swift */,
 				887E002C27632BA000F09B43 /* LoginViewController.swift */,
 				887E001827631FBC00F09B43 /* NewViewController.swift */,
@@ -171,6 +174,7 @@
 				227B922F275F271A00F829A8 /* AppDelegate.swift in Sources */,
 				2236B17727631EB4002502B6 /* KaranViewController.swift in Sources */,
 				227B9231275F271A00F829A8 /* SceneDelegate.swift in Sources */,
+				887E003D27633AB200F09B43 /* LastViewController.swift in Sources */,
 				2236B17D27632BE2002502B6 /* Karan121ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
