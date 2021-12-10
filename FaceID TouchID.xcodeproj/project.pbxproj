@@ -16,6 +16,7 @@
 		227B9236275F271A00F829A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 227B9234275F271A00F829A8 /* Main.storyboard */; };
 		227B9238275F271E00F829A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 227B9237275F271E00F829A8 /* Assets.xcassets */; };
 		227B923B275F271E00F829A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 227B9239275F271E00F829A8 /* LaunchScreen.storyboard */; };
+		22B37B0027633D1B00989DFE /* mehraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B37AFF27633D1B00989DFE /* mehraViewController.swift */; };
 		887E000A276316F000F09B43 /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E0009276316F000F09B43 /* DemoViewController.swift */; };
 		887E001127631A7D00F09B43 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E001027631A7D00F09B43 /* TestViewController.swift */; };
 		887E001927631FBC00F09B43 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E001827631FBC00F09B43 /* NewViewController.swift */; };
@@ -36,6 +37,7 @@
 		227B9237275F271E00F829A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		227B923A275F271E00F829A8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		227B923C275F271E00F829A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22B37AFF27633D1B00989DFE /* mehraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mehraViewController.swift; sourceTree = "<group>"; };
 		887E0009276316F000F09B43 /* DemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
 		887E001027631A7D00F09B43 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		887E001827631FBC00F09B43 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				227B9230275F271A00F829A8 /* SceneDelegate.swift */,
 				2236B17C27632BE2002502B6 /* Karan121ViewController.swift */,
 				2236B17827632256002502B6 /* Karan2ViewController.swift */,
+				22B37AFF27633D1B00989DFE /* mehraViewController.swift */,
 				227B9232275F271A00F829A8 /* ViewController.swift */,
 				227B9234275F271A00F829A8 /* Main.storyboard */,
 				887E003C27633AB200F09B43 /* LastViewController.swift */,
@@ -169,6 +172,7 @@
 				887E003427632F0500F09B43 /* Test1ViewController.swift in Sources */,
 				887E000A276316F000F09B43 /* DemoViewController.swift in Sources */,
 				887E001927631FBC00F09B43 /* NewViewController.swift in Sources */,
+				22B37B0027633D1B00989DFE /* mehraViewController.swift in Sources */,
 				2236B17927632256002502B6 /* Karan2ViewController.swift in Sources */,
 				227B9233275F271A00F829A8 /* ViewController.swift in Sources */,
 				227B922F275F271A00F829A8 /* AppDelegate.swift in Sources */,
