@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2236B17727631EB4002502B6 /* KaranViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2236B17627631EB4002502B6 /* KaranViewController.swift */; };
 		227B922F275F271A00F829A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227B922E275F271A00F829A8 /* AppDelegate.swift */; };
 		227B9231275F271A00F829A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227B9230275F271A00F829A8 /* SceneDelegate.swift */; };
 		227B9233275F271A00F829A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227B9232275F271A00F829A8 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2236B17627631EB4002502B6 /* KaranViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaranViewController.swift; sourceTree = "<group>"; };
 		227B922B275F271A00F829A8 /* FaceID TouchID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FaceID TouchID.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		227B922E275F271A00F829A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		227B9230275F271A00F829A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				227B922E275F271A00F829A8 /* AppDelegate.swift */,
+				2236B17627631EB4002502B6 /* KaranViewController.swift */,
 				227B9230275F271A00F829A8 /* SceneDelegate.swift */,
 				227B9232275F271A00F829A8 /* ViewController.swift */,
 				227B9234275F271A00F829A8 /* Main.storyboard */,
@@ -147,6 +150,7 @@
 				887E000A276316F000F09B43 /* DemoViewController.swift in Sources */,
 				227B9233275F271A00F829A8 /* ViewController.swift in Sources */,
 				227B922F275F271A00F829A8 /* AppDelegate.swift in Sources */,
+				2236B17727631EB4002502B6 /* KaranViewController.swift in Sources */,
 				227B9231275F271A00F829A8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
