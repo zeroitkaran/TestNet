@@ -20,6 +20,7 @@
 		887E001127631A7D00F09B43 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E001027631A7D00F09B43 /* TestViewController.swift */; };
 		887E001927631FBC00F09B43 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E001827631FBC00F09B43 /* NewViewController.swift */; };
 		887E002D27632BA000F09B43 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E002C27632BA000F09B43 /* LoginViewController.swift */; };
+		887E003427632F0500F09B43 /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887E003327632F0500F09B43 /* Test1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		887E001027631A7D00F09B43 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		887E001827631FBC00F09B43 /* NewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		887E002C27632BA000F09B43 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		887E003327632F0500F09B43 /* Test1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				2236B17827632256002502B6 /* Karan2ViewController.swift */,
 				227B9232275F271A00F829A8 /* ViewController.swift */,
 				227B9234275F271A00F829A8 /* Main.storyboard */,
+				887E003327632F0500F09B43 /* Test1ViewController.swift */,
 				887E002C27632BA000F09B43 /* LoginViewController.swift */,
 				887E001827631FBC00F09B43 /* NewViewController.swift */,
 				887E001027631A7D00F09B43 /* TestViewController.swift */,
@@ -160,6 +163,7 @@
 			files = (
 				887E002D27632BA000F09B43 /* LoginViewController.swift in Sources */,
 				887E001127631A7D00F09B43 /* TestViewController.swift in Sources */,
+				887E003427632F0500F09B43 /* Test1ViewController.swift in Sources */,
 				887E000A276316F000F09B43 /* DemoViewController.swift in Sources */,
 				887E001927631FBC00F09B43 /* NewViewController.swift in Sources */,
 				2236B17927632256002502B6 /* Karan2ViewController.swift in Sources */,
